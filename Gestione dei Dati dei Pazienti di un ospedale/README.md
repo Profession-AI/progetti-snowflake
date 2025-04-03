@@ -25,6 +25,9 @@ Creare un sistema centralizzato basato su Snowflake per gestire in modo sicuro e
    - Implementazione di controlli granulari degli accessi basati sui ruoli (RBAC).
    - Garantire la cifratura dei dati sensibili e la conformità alle normative GDPR.
 
+Dovrai quindi realizzare un modello dati su Snowflake rispecchi un dataset così costituito. Non è necessario riempirlo con dei dati; è sufficiente creare il modello delle tabelle (opzionalmente è possibile inserire dei dati di prova).
+
+
 ---
 
 ## Benefici del Progetto
